@@ -45,6 +45,20 @@ h5 {
     text-transform: uppercase
 }
 
+.btn-top {
+    background-color: none;
+    border-color: #fff;
+}
+
+a.btn-top {
+    color: #fff;
+}
+
+.btn-top:hover, .btn-top:focus {
+    border-color: #cdacbc !important;
+    background-color: #cdacbc !important;
+}
+
 .btn:hover,.btn:focus {
     color: #fff;
     border-color: #e8ca6f;
@@ -398,12 +412,12 @@ section .header {
 }
 
 .hero .hero-content {
-    padding-top: 40%
+    padding-top: 45%;
 }
 
 .hero .hero-content img {
     width: 55%;
-    margin-bottom: 12%
+    margin-bottom: 5%;
 }
 
 .navigation {
