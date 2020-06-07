@@ -103,6 +103,7 @@ $(document).ready(function () {
                 });
             } else {
                 $('section.navigation').removeClass('fixed');
+                $('section.navigation').css({ 'background-color' : ''});
                 $('header').css({
                     "border-bottom": "solid 1px rgba(255, 255, 255, 0.2)",
                     "padding": "50px 0"

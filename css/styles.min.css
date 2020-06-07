@@ -430,7 +430,7 @@ section .header {
 
 .fixed {
     position: fixed;
-    background-color: rgba(55,36,40,0.88);
+    background-color: rgba(198, 176, 190,0.88) !important;
     z-index: 999;
     width: 100%
 }
