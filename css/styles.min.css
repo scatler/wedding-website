@@ -1058,3 +1058,7 @@ body.modal-open {
 .modal-body {
     padding: 25px
 }
+
+#gallery img {
+    width: 100%
+}
