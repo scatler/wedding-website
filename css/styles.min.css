@@ -1062,3 +1062,18 @@ body.modal-open {
 #gallery img {
     width: 100%
 }
+
+ul {
+    padding-left: 20px;
+    line-height: 29px;
+}
+
+ul li {
+    list-style-position: outside;
+    list-style: square;
+}
+
+td.time-table-text{
+    padding: 10px;
+}
+
